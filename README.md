@@ -26,4 +26,8 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/my-diary.git](https://github.com/yourusername/my-diary.git)
+   git clone https://github.com/hiteshkumbhar/My_Diary.git
+   
+
+
+   
