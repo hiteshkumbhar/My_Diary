@@ -38,3 +38,6 @@
 
 Building this project was a deep dive into the practicalities of file I/O operations in Python. I learned how to manage file pointers using .seek() and .readline() to navigate through custom-formatted text files, which was essential for the "Read Specific Content" feature.
    
+#Author
+Your Name 
+* GitHub: @hiteshkumbhar
