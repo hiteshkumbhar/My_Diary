@@ -27,7 +27,12 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/hiteshkumbhar/My_Diary.git
-   
+2. Navigate to the project directory:
+   ```bash
+    cd my-diary
+3. Run the script:
+   ```bash
+   python My_Diary.py   
 
 
    
